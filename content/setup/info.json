@@ -2,7 +2,7 @@
     "sitename": "UFUK AYYILDIZ",
     "sitedescription": "",
     "siteicon": "/images/uploads/icon.png",
-    "showmenu": true,
+    "showmenu": false,
     "emailsignup": true,
     "altlayout": false,
     "menu": [
